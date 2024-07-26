@@ -8,6 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siva95028&label=Profile%20views&color=0e75b6&style=flat" alt="siva95028" /> </p>
 
 - 📫 How to reach me **sivabathula03961@gmail.com**
+- [THREE TAIR ARCHITECTURE] (https://github.com/siva95028/THREE-TAIR-ARCHITECTURE/blob/main/PROJECT-1.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
