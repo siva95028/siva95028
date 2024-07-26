@@ -1,43 +1,9 @@
-
--->
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20685
-Fork on GitHub
-6359
-
-back to edit
-
-download backup
-
-preview
+---------------------------------------------------
 <h1 align="center">Hi 👋, I'm BATHULA SIVA</h1>
 <h3 align="center">A passionate devops engineer from India</h3>
-<img aling="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsbu-mg.org.br%2F%3Fc%3Dconvert-your-presentation-to-animated-gif-xx-Pq50knT0&psig=AOvVaw10QKvImPtUVfPGN3r40Y97&ust=1722083562703000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqGAoTCLiY7rHbxIcDFQAAAAAdAAAAABCJAQ
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siva95028&label=Profile%20views&color=0e75b6&style=flat" alt="siva95028" /> </p>
 
 - 📫 How to reach me **sivabathula03961@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<img align="right"alt="coding"width="400"src"github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20685
-Fork on GitHub
-6359
-download markdown
-download backup
-
-preview
-<h1 align="center">Hi 👋, I'm BATHULA SIVA</h1>
-<h3 align="center">A passionate devops engineer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siva95028&label=Profile%20views&color=0e75b6&style=flat" alt="siva95028" /> </p>
-
-- 📫 How to reach me **sivabathula03961@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
